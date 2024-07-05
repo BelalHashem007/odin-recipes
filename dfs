@@ -1,0 +1,68 @@
+[33mcommit c5dfd22d780db0abb47fefe135923e5ae353b9de[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: e8ff318 f6889b5
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Wed Jul 3 21:45:56 2024 +0300
+
+    Merge branch 'main' of github.com:BelalHashem007/odin-recipes
+
+[33mcommit e8ff3180ddc02dd0ab1bbf0220b807af02745915[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Wed Jul 3 21:44:21 2024 +0300
+
+    README.md update
+
+[33mcommit f6889b5dc5899b4314edf5d5ff13ca3cc3da46d3[m
+Author: BelalHashem007 <167135228+BelalHashem007@users.noreply.github.com>
+Date:   Wed Jul 3 21:31:07 2024 +0300
+
+    Update README.md
+
+[33mcommit f440887567c149e82392a0847146e6a19d0e510d[m
+Author: BelalHashem007 <167135228+BelalHashem007@users.noreply.github.com>
+Date:   Wed Jul 3 21:30:48 2024 +0300
+
+    Update README.md
+
+[33mcommit 9ebf127b2167c52be7268d138bcdedce12950804[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Wed Jul 3 21:28:40 2024 +0300
+
+    Adding css to my odin-recipe project
+    
+    adding the styles to the pages and making a separate folder to store the css files.
+    only changing the h1 of the page and photo.
+    also changing the title of the page from "document" to "xxxx-recipe".
+
+[33mcommit 96d9d73ea653ffb2d69379e9b3c9fd77cfebc19d[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Wed Jul 3 00:09:43 2024 +0300
+
+    Adding the last two recipe and renaming a file
+    
+    adding big-soft-ginger-cookies recipe and fish-tacos recipe and renaming friedchicken to fried-chicken.
+
+[33mcommit b8756bf83bcc8c09fc463bb26a98ea8211687482[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Tue Jul 2 23:33:31 2024 +0300
+
+    finishing the first recipe page
+
+[33mcommit fc0ef289306a95306b8710f557c45ca92673c063[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Tue Jul 2 23:02:06 2024 +0300
+
+    Setting the recipe page
+
+[33mcommit a4756ea03fddca84d439c29169deb166919a4d56[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Tue Jul 2 22:50:25 2024 +0300
+
+    Initial structure
+    
+    adding index.html
+
+[33mcommit 54426f3ec02acca1fa6efcc768e8b12f7fc7bc09[m
+Author: BelalHashem007 <belal.hashem.saleh@gmail.com>
+Date:   Tue Jul 2 22:38:17 2024 +0300
+
+    Adding README.md

@@ -1,8 +1,19 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+    width: 400px;
+    margin: auto;
+
+}
 h1 {
-    color: red;
-    text-align: center;
+    color: black;
     font-size: 50px;
 }
-body {
-    background-color: lightgreen;
+ul {
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+li {
+    margin: 20px;
 }
